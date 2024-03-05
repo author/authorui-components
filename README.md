@@ -1,2 +1,2 @@
 # authorui-components
-Standard Components for AuthorUI JavaScript UI Library
+Standard Components for AuthorUI

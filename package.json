@@ -1,7 +1,7 @@
 {
   "name": "@authorui/components",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Standard Components for AuthorUI JavaScript UI Library",
   "main": "index.js",
   "scripts": {

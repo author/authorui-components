@@ -16,11 +16,7 @@ export default ({
 
   return html`<input>`({
     attributes,
-
-    properties: {
-      value
-    },
-  
+    properties: { value },
     on
   })
 }

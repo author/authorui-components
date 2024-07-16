@@ -5,6 +5,7 @@
   "description": "Standard Components for AuthorUI JavaScript UI Library",
   "main": "index.js",
   "scripts": {
+    "setup": "npm link",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Graham Butler",

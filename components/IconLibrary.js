@@ -9,8 +9,8 @@ export default class IconLibrary {
     this.#path = path
   }
 
-  get (id) {
-    return include(`${this.#path}/${this.#aliases?.[id] ?? id}.svg`, {
+  get (alias) {
+    return include(`${this.#path}/${this.#aliases?.[alias] ?? alias}.svg`, {
       type: 'text/html'
     })
   }

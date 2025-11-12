@@ -1,4 +1,4 @@
-import { html, Router } from 'aui'
+import { html, Router } from 'authorui'
 
 export default ({ href, label }) => html`<a href="${href}">${label}</a>`({
   on: {

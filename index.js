@@ -5,6 +5,7 @@ export { default as AutocompleteControl } from './components/forms/AutocompleteC
 export { default as CheckboxControl } from './components/forms/CheckboxControl.js'
 export { default as InputControl } from './components/forms/InputControl.js'
 
+export { default as Menu } from './components/Menu.js'
 export { default as Modal } from './components/Modal.js'
 
 // export { default as Popover } from './components/Popover.js'
